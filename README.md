@@ -42,7 +42,7 @@ Users should be able to:
 
   - Mobile-first workflow
   - Semantic HTML5 markup
-  - CSS custom properties
+  - CSS custom properties44
   - Flexbox, CSS Grid
   - [React](https://reactjs.org/) - JS library
   - [Tailwind CSS](https://styled-components.com/) - For styles
