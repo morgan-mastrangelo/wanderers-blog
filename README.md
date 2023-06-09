@@ -14,7 +14,7 @@
 
 ### The challenge55
 
-Users should be able to:
+Users should be able to:66
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
